@@ -1,17 +1,1 @@
-{
-  "newStorageAccountName": {
-      "value": "deletehis3"
-  },
-   "adminUsername": {
-      "value": "deletehis3"
-  },
-  "adminPassword": {
-      "value": "deletehis3!"
-  },
-  "dnsNameForPublicIP": {
-      "value": "deletethis3"
-  },
-  "windowsOSVersion": {
-      "value": "2008-R2-SP1"
-  }
- }
+
