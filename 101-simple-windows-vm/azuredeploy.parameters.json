@@ -1,18 +1,17 @@
 {
-  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
-    "contentVersion": "1.0.0.0",
-    "parameters": {
-         "adminUsername": {
-            "value": "deletehis3"
-        },
-        "adminPassword": {
-            "value": "deletehis3!"
-        },
-        "dnsNameForPublicIP": {
-            "value": "deletethis3"
-        },
-        "windowsOSVersion": {
-            "value": "2008-R2-SP1"
-        }
-   }
-}
+  "newStorageAccountName": {
+      "value": "deletehis3"
+  },
+   "adminUsername": {
+      "value": "deletehis3"
+  },
+  "adminPassword": {
+      "value": "deletehis3!"
+  },
+  "dnsNameForPublicIP": {
+      "value": "deletethis3"
+  },
+  "windowsOSVersion": {
+      "value": "2008-R2-SP1"
+  }
+ }
