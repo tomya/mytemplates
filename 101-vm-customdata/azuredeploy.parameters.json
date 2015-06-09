@@ -1,18 +1,18 @@
 ﻿{
     "newStorageAccountName" : {
-        "value":""
+        "value":"deletethiss4"
     },
     "adminUsername": {
-        "value": ""
+        "value": "delethisu4"
     },
     "adminPassword": {
-        "value": ""
+        "value": "deletehisp4"
     },
     "customData" : {
         "value" : "echo customData"
     },
     "dnsNameForPublicIP": {
-        "value": ""
+        "value": "deletethisd4"
     },
     "location": {
         "value": "West US"
@@ -20,7 +20,7 @@
     "vmSize": {
         "value": "Standard_A0"
     },
-    "ubuntuOSVersion" : {
-        "value" : "14.10"
+    "windowsOSVersion" : {
+        "value" : "2012-Datacenter"
     }
 }
