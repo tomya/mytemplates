@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "newStorageAccountName": {
-            "value": "tempstorage"
+            "value": "temp1233"
         },
         "adminUsername": {
             "value": "tomya"
@@ -12,7 +12,7 @@
             "value": "tomy123"
         },
         "dnsNameForPublicIP": {
-            "value": "smartcloud1"
+            "value": "tomy123"
         }
    }
 }
