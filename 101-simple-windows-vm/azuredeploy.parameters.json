@@ -3,16 +3,16 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "newStorageAccountName": {
-            "value": "temp1233"
+            "value": "deletethis3"
         },
         "adminUsername": {
-            "value": "tomya"
+            "value": "deletehis3"
         },
         "adminPassword": {
-            "value": "tomy123"
+            "value": "deletehis3!"
         },
         "dnsNameForPublicIP": {
-            "value": "tomy123"
+            "value": "deletethis3"
         },
         "windowsOSVersion": {
             "value": "2008-R2-SP1"
