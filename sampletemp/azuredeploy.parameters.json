@@ -1,0 +1,18 @@
+{
+    "$schema": "http://schema.management.azure.com/schemas/2014-04-01-preview/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "newStorageAccountName": {
+            "value": "deletethis123"
+        },
+        "adminUsername": {
+            "value": "deleteuser"
+        },
+        "adminPassword": {
+            "value": "deleteuser123"
+        },
+        "dnsNameForPublicIP": {
+            "value": "delethis123"
+        }
+   }
+}
