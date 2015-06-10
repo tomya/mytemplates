@@ -1,18 +1,15 @@
-{
-    "$schema": "",
-    "contentVersion": "",
-    "parameters": {
+ {
         "newStorageAccountName": {
-            "value": "deletethis123"
+            "value": "deleteme1"
         },
         "adminUsername": {
-            "value": "deleteuser"
+            "value": "mladmin"
         },
         "adminPassword": {
-            "value": "deleteuser123"
+            "value": "micro10$"
         },
         "dnsNameForPublicIP": {
-            "value": "delethis123"
+            "value": "deletemyloublicip1"
         },
          "windowsOSVersion": {
              "value": "2008-R2-SP1"
